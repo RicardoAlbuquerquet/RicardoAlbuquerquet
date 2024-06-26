@@ -1,5 +1,4 @@
-Sure! Here’s a revised version incorporating your information:
-
+Ricardo Albuquerque
 ---
 
 # 💫 About Me :

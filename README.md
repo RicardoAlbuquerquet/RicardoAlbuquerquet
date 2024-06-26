@@ -1,7 +1,7 @@
 
 ---
 
-# 💫 About Me :
+# 🌟 About Me :
 Experienced Software Engineer with expertise in PHP, Laravel, and SQL. Proficient in both back-end and front-end development, with additional skills in JavaScript, Vue3, Dart, and Flutter. Adept in DevOps practices and cloud services, particularly Amazon Web Services (AWS). Aiming to continuously enhance my skills and contribute to innovative projects.
 
 ## 🌐 Socials

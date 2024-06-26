@@ -1,4 +1,4 @@
-Ricardo Albuquerque
+
 ---
 
 # 💫 About Me :

@@ -18,11 +18,17 @@ Experienced Software Engineer with expertise in PHP, Laravel, and SQL. Proficien
 May 2022 - Present
 
 • Analysis of tickets and requirements gathering.
+
 • Development of improvements and new features.
+
 • Incident repairs and portal maintenance.
+
 • Direct interaction with clients, including participation in meetings with leadership.
+
 • Training of new employees and ongoing support for the existing team.
+
 • Data analysis for creating spreadsheets and charts.
+
 • Responsible for managing the CENSO.
 
 ---

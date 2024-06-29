@@ -14,7 +14,7 @@ Experienced Software Engineer with expertise in PHP, Laravel, and SQL. Proficien
 
 ## 👨‍💻 Professional Experience
 
-## **Software Engineer - PHP (JCL - TECNOLOGIA)**
+**Software Engineer - PHP (JCL - TECNOLOGIA)**
 May 2022 - Present
 
 - Analysis of tickets and requirements gathering.

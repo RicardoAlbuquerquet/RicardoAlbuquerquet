@@ -11,20 +11,21 @@ Experienced Software Engineer with expertise in PHP, Laravel, and SQL. Proficien
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-% --------------------------------------
-% WORK EX
-% --------------------------------------
 
-\section{Professional Experience}
+## 👨‍💻 Professional Experience
 
-\cventry{May 2022 -- Atualmente}{Software Engineer - PHP}{}{JCL - TECNOLOGIA}{}{
+Software Engineer - PHP (JCL - TECNOLOGIA)
+May 2022 - Present
+
 • Analysis of tickets and requirements gathering.
 • Development of improvements and new features.
 • Incident repairs and portal maintenance.
 • Direct interaction with clients, including participation in meetings with leadership.
 • Training of new employees and ongoing support for the existing team.
 • Data analysis for creating spreadsheets and charts.
-• Responsible for managing the CENSO.}
+• Responsible for managing the CENSO.
+
+---
 
 ## 🧰 Skills 🧰
 
